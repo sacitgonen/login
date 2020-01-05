@@ -1,0 +1,20 @@
+.Page.Button {
+    margin: 5px;
+    background-color: #339b00;
+    color: #FFFFFF;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.Page.Button:hover {
+    background-color: #117900;
+    color: #FFFFFF;
+}
+
+.Page.Rows {
+    margin: 5px;
+    display: flex;
+    min-height: 20px;
+}
